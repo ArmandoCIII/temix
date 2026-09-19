@@ -5,13 +5,4 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "requests",
-    "httpx",
-    "beautifulsoup4",
-    "lxml",
-    "pymongo",
-    "langchain",
-    "faiss-cpu",
-    "ollama",
-    "websockets"
 ]
